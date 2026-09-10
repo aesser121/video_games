@@ -1,0 +1,1 @@
+print("Video games are awesome!")
