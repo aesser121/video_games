@@ -1,0 +1,1 @@
+Print("There are no rules! Go Crazy!")
